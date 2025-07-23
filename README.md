@@ -1,2 +1,2 @@
 # Hello-
-Create a Hello Word program
+Hello World program
